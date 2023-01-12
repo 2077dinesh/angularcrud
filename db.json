@@ -1,0 +1,32 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Electonic",
+      "date": "2023-01-11T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 100000,
+      "comment": "apple mobile",
+      "id": 1
+    },
+    {
+      "productName": "apple",
+      "category": "Fruite",
+      "date": "2023-01-11T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "apple fruite",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
